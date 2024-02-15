@@ -1,0 +1,51 @@
+<style>
+  .flex-container-news {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+  .cardthis {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0.5rem 1.0rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 91%;
+    border-radius: 10px;
+    margin: 10px 10px 10px;
+    min-width: 300px;
+  }
+  
+  @media (max-width: 600px) {
+    .cardthis {
+      width: 80%;
+    }
+  }
+  
+
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  
+  
+  </style>
+<div class="flex-container-news">
+  <div >
+  {% for post in site.posts limit:1 %}
+    {% assign page = site.posts.first %}
+
+    <h5><a href="{{page.url}}">{{ page.title }}</a></h5>
+
+
+    {% assign date_format = site.date_format | default: "%d %b %Y" %}
+    {{ categories | append: "" }}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+
+
+    {{ page.excerpt | markdownify | truncatewords: 60 }}
+
+  {% endfor %}
+  </div>
+</div>
+

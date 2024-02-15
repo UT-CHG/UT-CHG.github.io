@@ -1,0 +1,10 @@
+<style>
+    .button_look{
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+    }
+</style>
+
+
+<a class="button button_look" href="{{ include.link | default: '#' }}"{% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Button" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>

@@ -1,0 +1,74 @@
+<style>
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+.card {
+  display: flex;
+  flex: 0 1 calc(33% - 1em);
+  flex-direction: column;
+  padding: 0.5rem 1.0rem;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  margin: 10px 10px 10px;
+}
+
+@media (max-width: 1000px) {
+  .card {
+    flex: 0 1 calc(49% - 1em);
+  }
+}
+
+@media (max-width: 600px) {
+  .card {
+    flex: 0 1 calc(100% - 1em);
+  }
+}
+
+.bottomWrapper{
+  margin-top: auto;
+  text-align: left;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+
+</style>
+
+<div class="flex-container">
+  
+    <div class="card">
+      <a href="/project/kissing_bug"><img src="/assets/project/sanguisuga.png" alt="Avatar" style="width:100%"></a>
+      <div class="bottomWrapper">
+        <a href="/project/kissing_bug"><h6><b>Kissing Bugs in North America</b></h6> </a>
+      </div>
+    </div>
+  
+
+    <div class="card">
+      <a href="/project/flood_model"><img src="/assets/project/flood_model_temporary2.png" alt="Avatar" style="width:100%"></a>
+        <div class="bottomWrapper">
+          <a href="/project/flood_model"><h6><b>Model Flooding and Storm Surges</b></h6></a>
+        </div>
+    </div>
+
+    <div class="card">
+      <a href="/project/neches"><img src="/assets/logos/logo@1024px.png" alt="Avatar" style="width:100%"></a>
+        <div class="bottomWrapper">
+          <a href="/project/neches"><h6><b>Neches River: the Model Integration Testing Site</b></h6></a> 
+        </div>
+    </div>
+
+    <div class="card">
+      <a href="/project/melioidosis"><img src="/assets/project/melioidosis.png" alt="Avatar" style="width:100%"></a>
+        <div class="bottomWrapper">
+          <a href="/project/melioidosis"><h6><b>Melioidosis in United States</b></h6></a> 
+        </div>
+    </div>
+</div>
