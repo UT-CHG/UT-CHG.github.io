@@ -122,8 +122,8 @@ navigation_header:
 
 
 navigation_footer:
-- title: A Framework for Flood and Disease Modeling
-  url: https://flodismod.github.io
+- title: Computational Hydraulics Group
+  url: https://ut-chg.github.io
 
 #[LT: comment off, don't need them]
 # social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
