@@ -18,7 +18,7 @@ Update Website Content: commit to the main branch.
 1) Create a new markdown file under /_post folder, name it in the date-title.md format (e.g. 2023-01-01-firstpost.md)
 2) In the markdown file, include the follow content. 
 
-"""
+'''
 ---
 title: your title
 categories:
@@ -34,7 +34,7 @@ Maintext
 
 {% include button.html text="Back" link="/news/" %} (this is the button to take you back to news & outreach page)
 
-"""
+'''
 
 
 
@@ -72,13 +72,7 @@ feature_image: "/assets/cover_photo.png"
 ---
 {% include profile-short.html name="" extra="" position="" position2=""  bio="" link="/assets/team_profile/"%}
 
-'''
-
-
-
 [name of the web link](the actual link)
 
-
-
 {% include button.html text="Back" link="/groups/" %}
-"""
+'''
