@@ -2,7 +2,7 @@
 
 
 
-This website is developed from the template [Alembic](https://alembic.darn.es/).Thank you!
+This website is developed from the template [Alembic](https://alembic.darn.es/). Thank you!
 
 
 Live at [https://ut-chg.github.io](https://ut-chg.github.io).
