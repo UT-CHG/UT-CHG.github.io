@@ -12,6 +12,7 @@ Live at [https://ut-chg.github.io](https://ut-chg.github.io).
 Update Website Content: commit to the main branch.
 
 
+(Basic writing and formatting syntax)[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
 
 ## How to add news?
 
@@ -57,7 +58,8 @@ Maintext
     
 ```
 
-To avoid error, make sure you don't put ".md" in the href of <p ><a href="../ourteam/profile_NewMember">view bio</a></p>.
+To avoid error, make sure you don't put ".md" in the href of 
+```<p ><a href="../ourteam/profile_NewMember">view bio</a></p>.```
 
 3) Go to /ourteam, create a new markdown file profile_NewMember.md, and put the following information down:
 
@@ -110,4 +112,8 @@ maintext
 
 {% include button.html text="Back" link="/research_page/" %}
 ```
+
+## How to edit the navigation bar?
+
+1) Go to _config.yml and edit section under # 9. Site navigation.
    
