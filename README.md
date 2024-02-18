@@ -18,6 +18,23 @@ Update Website Content: commit to the main branch.
 1) Create a new markdown file under /_post folder, name it in the date-title.md format (e.g. 2023-01-01-firstpost.md)
 2) In the markdown file, include the follow content (news_example.txt).
 
+```
+---
+title: your title
+categories:
+- Workshop(or any other categories)
+feature_image: "https://flodismod.github.io/assets/cover_photo.png" (the image on the top of the page)
+---
+
+On the News & Outreach page, there is a list of posts. Here you put the preview text, which will be shown below the title of this post.
+<!-- more -->
+
+Maintext
+<br>
+
+{% include button.html text="Back" link="/news/" %} (this is the button to take you back to news & outreach page)
+```
+
 
 ## How to add new group member?
 
