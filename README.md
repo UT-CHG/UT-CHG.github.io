@@ -16,9 +16,9 @@ Update Website Content: commit to the main branch.
 ## How to add news?
 
 1) Create a new markdown file under /_post folder, name it in the date-title.md format (e.g. 2023-01-01-firstpost.md)
-2) In the markdown file, include the follow content. 
+2) In the markdown file, include the follow content.
 
-'''
+
 ---
 title: your title
 categories:
@@ -34,7 +34,7 @@ Maintext
 
 {% include button.html text="Back" link="/news/" %} (this is the button to take you back to news & outreach page)
 
-'''
+
 
 
 
