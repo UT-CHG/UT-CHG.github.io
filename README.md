@@ -12,7 +12,7 @@ Live at [https://ut-chg.github.io](https://ut-chg.github.io).
 Update Website Content: commit to the main branch.
 
 
-(Basic writing and formatting syntax)[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## How to add news?
 
