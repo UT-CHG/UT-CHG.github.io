@@ -2,12 +2,13 @@ Computational Hydraulics Group at The Oden Institute for Computational Engineeri
 
 
 
-Developed from [Alembic](https://alembic.darn.es/).
+This website is developed from the template [Alembic](https://alembic.darn.es/).
 
 
 Live at [https://ut-chg.github.io](https://ut-chg.github.io).
 
 
+# development guide
 
 Update Website Content: commit to the main branch.
 
