@@ -24,7 +24,7 @@ Update Website Content: commit to the main branch.
 1) Go to /_includes, find profile_card.html.
 2) Add the following block after the last card:
 
-``
+```
 <div class="card">
     <div class="box2"><img src="/assets/team_profile/new_member.png" alt="Avatar" style="width:100%"></div>
     <div>
@@ -38,7 +38,7 @@ Update Website Content: commit to the main branch.
     </div>
 </div>
     
-``
+```
 
 To avoid error, make sure you don't put ".md" in the href of <p ><a href="../ourteam/profile_NewMember">view bio</a></p>.
 
@@ -50,14 +50,14 @@ To avoid error, make sure you don't put ".md" in the href of <p ><a href="../our
 1) Go to /_includes, find display_research.html.
 2) Add the following block after the last card following the example:
 
-``
+```
 <div class="card">
   <a href="/project/adaptive_mesh"><img src="/assets/project/melioidosis.png" alt="Avatar" style="width:100%"></a>
     <div class="bottomWrapper">
       <a href="/project/adaptive_mesh"><h6><b>Improving the Efficiency of Wave and Surge Models via Adaptive Mesh Resolution</b></h6></a> 
     </div>
 </div>
-``
+```
 
 3) Go to /project, create a new markdown file adaptive_mesh.md. In the markdown file, put the following information down (project_example.txt).
    
