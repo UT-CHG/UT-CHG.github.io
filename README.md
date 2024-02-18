@@ -16,7 +16,7 @@ Update Website Content: commit to the main branch.
 ## How to add news?
 
 1) Create a new markdown file under /_post folder, name it in the date-title.md format (e.g. 2023-01-01-firstpost.md)
-2) In the markdown file, include the follow content (news_example.txt).
+2) In the markdown file, include the follow content.
 
 ```
 ---
@@ -59,7 +59,21 @@ Maintext
 
 To avoid error, make sure you don't put ".md" in the href of <p ><a href="../ourteam/profile_NewMember">view bio</a></p>.
 
-3) Go to /ourteam, create a new markdown file profile_NewMember.md, and put the following information down (profile_example.txt).
+3) Go to /ourteam, create a new markdown file profile_NewMember.md, and put the following information down:
+
+```
+---
+feature_text: |
+  ## Team
+
+feature_image: "/assets/cover_photo.png"
+---
+{% include profile-short.html name="" extra="" position="" position2=""  bio="" link="/assets/team_profile/"%}
+
+[name of the web link](the actual link)
+
+{% include button.html text="Back" link="/groups/" %}
+```
 
 
 ## How to add new research topic?
@@ -76,5 +90,24 @@ To avoid error, make sure you don't put ".md" in the href of <p ><a href="../our
 </div>
 ```
 
-3) Go to /project, create a new markdown file adaptive_mesh.md. In the markdown file, put the following information down (project_example.txt).
+3) Go to /project, create a new markdown file adaptive_mesh.md. In the markdown file, put the following information down:
+
+```
+---
+title: Title of your project
+feature_text: |
+  Research
+
+feature_image: "/assets/cover_photo/pier.png" (save the project cover photo in the same directory and quote it here)
+feature_credit: Photo by someone (leave it blank if no photographers)
+
+---
+<br />
+
+maintext
+
+
+
+{% include button.html text="Back" link="/research_page/" %}
+```
    
