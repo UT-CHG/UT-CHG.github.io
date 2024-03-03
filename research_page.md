@@ -11,6 +11,6 @@ feature_credit:
 
 In addition to developing numerical methods for PDEs, **CHG** performs research in data assimilation and parameter estimation, using variational methods and ensemble methods. These algorithms are also being applied to problems in groundwater and surface water.
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/UT-CHG" color="#ee7837" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/UT-CHG" color="#0b4e5f" %}
 
 {% include display-research.html%}
