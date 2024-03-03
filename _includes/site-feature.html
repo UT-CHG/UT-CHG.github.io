@@ -14,15 +14,10 @@
 <style>
   .radial-gradient {
   
-  /*Fallback if gradeints don't work */
   background-image: linear-gradient(135deg, #cdc29a, #128094,#011e26);
   background-size: 200% 200%;
   animation: color 8s ease-in-out infinite;
-  /* Linear gradient...
-  background: 
-    radial-gradient(
-     at center, #3498db, #9b59b6
-    ); */
+
 }
 @keyframes color{
   0%{
@@ -53,17 +48,5 @@
     </div>
 </div>
 
-<script>
-  $(document).mousemove(function(event) {
-  windowWidth = $(window).width();
-  windowHeight = $(window).height();
-  
-  mouseXpercentage = Math.round(event.pageX / windowWidth * 100);
-  mouseYpercentage = Math.round(event.pageY / windowHeight * 100);
-  print(mouseXpercentage);
-  
-  $('.radial-gradient').css('background', 'radial-gradient(at ' + mouseXpercentage + '% ' + mouseYpercentage + '%, #3498db, #9b59b6)');
-});
-</script>
 
 {% endif %}
