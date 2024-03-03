@@ -67,7 +67,8 @@
     }
 
 </style>
-    
+
+
 <div class="flexcontainer">
   
     <div class="card flexcontainer">
@@ -82,6 +83,7 @@
             <p>{{ include.extra | default: '' }}</p>
             <p>{{ include.position| default: 'position' }}</p>
             <p>{{ include.position2| default: '' }}</p>
+            <p><a href="mailto:{{ include.email| default: '' }}"  target="_blank">{{ include.email| default: '' }}</a></p>
         </div>
   </div>
     <div class="card3">{{ include.bio | default: '' }}</div>
