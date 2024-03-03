@@ -22,12 +22,12 @@ The CHG also has a long history in development of discontinuous Galerkin finite 
 In addition to these models, the CHG uses and contributes to the development of other models, including the [Adaptive Hydraulics (ADH)](https://www.erdc.usace.army.mil/Locations/CHL/AdH/) model from the United States Army Corps of Engineers. Recently, CHG researchers have developed software to couple some of the aforementioned models in an effort to maximize the exploitation of the strengths of each individual model. 
 
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/UT-CHG" color="#ee7837" %} 
+
 
 <!-- {% include button.html text="Meet Our Team" link="/groups/" %} -->
 
-##### Research
-{% include display-research.html%}
+<!-- ##### Research
+{% include display-research.html%} -->
 
 
 <br>

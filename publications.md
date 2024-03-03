@@ -11,6 +11,11 @@ feature_text: |
 
 #### Refereed Journal Publications
 
+<details>
+
+<summary> 1988 - 2000 </summary>
+
+
   1. Bell, J. B., Dawson, C. and Shubin, G. R., “An unsplit, higher order Godunov method for scalar conservation laws in multiple dimensions,” Journal of Computational Physics, 74 (1): 1-24, January 1988.
   1. Dawson, C., Russell, T. F. and Wheeler, M. F., “Some Improved Error Estimates for the Modified Method of Characteristics,” SIAM Journal on Numerical Analysis, 26 (6): 1487-1512, 1989.
   1. Dawson, C., “Godunov-mixed methods for immiscible displacement,” International Journal for Numerical Methods in Fluids, 11: 835-847, 1990.
@@ -49,6 +54,15 @@ feature_text: |
   36. Aizinger, V., Dawson, C., Cockburn, B. and Castillo, P., “Local discontinuous Galerkin methods for contaminant transport,” Advances in Water Resources, 24 (1): 73-87, October 2000.
   37. Bryant, S., Dawson, C. and van Duijn, C. J., “Dispersion-induced chromatographic waves,” Ind. Eng. Chem. Res., Vol. 39, pp. 2682-2691, 2000.
   38. Dawson, C. and Martinez-Canales, M., “Finite element approximations to the system of shallow water equations, Part III: On the treatment of boundary conditions,’’ SIAM Journal on Numerical Analysis, 38 (1): 149-159, 2000.
+
+
+</details>
+
+<details>
+
+<summary> 2001 - 2010 </summary>
+
+
   39. Dawson, C. and Kirby, R., “High resolution schemes for conservation laws with locally varying time steps,” SIAM Journal on Scientific Computing, 22, (6): 2256-2281, 2001.
   40. Dawson, C. and Proft, J., “A priori error estimates for interior penalty versions of the local discontinuous Galerkin method applied to transport equations,’’ Numerical Methods for Partial Differential Equations, 17: 545-561, 2001.
   41. Aizinger, V. and Dawson, C., “A discontinuous Galerkin method for two-dimensional flow and transport in shallow water,’’ Advances in Water Resources, 25 (1): 67-84, January 2002.
@@ -144,6 +158,14 @@ feature_text: |
   78. Dietrich, J.C., Bunya, S., Westerink, J.J., Ebersole, B.A., Smith, J.M., Atkinson, J.H., Jensen, R., Resio, D.T., Luettich, R.A., Dawson, C., Cardone, V.J., Cox, A.T., Powell, M.D., Westerink, H.J. and Roberts, H.J., “A high-resolution coupled riverine flow, tide, wind, wind wave and storm surge model for Southern Louisiana and Mississippi: Part II-synoptic description and analysis of Hurricanes Katrina and Rita,” Monthly Weather Review, 138 (2): 378-404, 2010.
   79. Santillana, M. and Dawson, C., “A local discontinuous Galerkin method for a doubly nonlinear diffusion equation arising in shallow water modeling,” Computer Methods in Applied Mechanics and Engineering, 199 (23-24): 1424-1436, April 2010.
   80. Wirasaet, D., Tanaka, S., Kubatko, E.J., Westerink, J.J. and Dawson, C., “A performance comparison of nodal discontinuous Galerkin methods on triangles and quadrilaterals,” International Journal of Numerical Methods in Fluids, 64: 1336-1362, 2010.
+
+</details>
+
+<details>
+
+<summary> 2011 - 2020 </summary>
+
+
   81. Tanaka, S., Bunya, S., Westerink, J.J., Dawson, C. and Luettich, R.A., “Scalability of an unstructured grid continuous Galerkin based hurricane storm surge model,” Journal of Scientific Computing, 46: 329-358, 2011.
   82. Dietrich, J.C., Zijlema, M., Westerink, J.J., Holtuijsen, L.H., Dawson, C., Luettich, R.A., Jr., Jensen, R., Smith, J.M., Stelling, G.S. and Stone, G.W., “Modeling hurricane waves and storm surge using integrally-coupled, scalable computations,” Coastal Engineering, 58 (1): 45-65, January 2011.
   83. Mirabito, C., Dawson, C., Kubatko, E.J., Westerink, J.J. and Bunya, S., “Implementation of a discontinuous Galerkin morphological model on two-dimensional unstructured meshes,” Computer Methods in Applied Mechanics and Engineering, 200: 189-207, 2011.
@@ -239,8 +261,22 @@ feature_text: |
   160. Sraj, I., Mandli, K.T., Knio, O., Dawson, C. and Hoteit, I., “Quantifying uncertainties in fault slip
   distribution during the Tohoku tsunami using polynomial chaos,” Ocean Dynamics 67, pp. 1535-1551, 2017.
 
+</details>
+
+<details>
+
+<summary> 2021 - now </summary>
+
+
+</details>
+
 
 #### Refereed Conference Proceedings
+
+<details>
+
+<summary> details </summary>
+
 
 1. Dawson, C., Dupont, T. F., and Wheeler, M. F., “The rate of convergence of the modified method of characteristics for linear advection equations in one dimension,” Mathematics for Large-Scale Computation, J. Diaz, ed., Marcel-Dekker, New York, pp. 115-126, 1989.
 2. Chippada, S., Dawson, C. N., Martinez, M. L., and Wheeler, M. F., “A Godunov-type finite volume method for the system of shallow water equations,” Computer Methods in Applied Mechanics and Engineering, Proceedings of the 1997 Symposium on Advances in Computational Mechanics, 151 (1- 2): 105-129, January 1998.
@@ -254,7 +290,15 @@ feature_text: |
 10. DuChene,M.,Spagnuolo,A.M.,Kubatko,E.,Westerink,J.J.andDawson,C.,“Aframeworkforrunningthe ADCIRC discontinuous Galerkin storm surge model on a GPU,” International Conference on Computational Science, ICCS 2011, Procedia Computer Science.
 
 
+</details>
+
 #### Other Major Publications
+
+<details>
+
+<summary> details </summary>
+
+
 
 1. Dawson, C., Wheeler, M. F., and Borden, R. C., “Numerical Simulation of Microbial Biodegradation of Hydrocarbons in Groundwater,” Proceedings of 6th International Symposium on Finite Element Methods in Flow Problems,” Antibes, France, pp. 353-358, 1986.
 2. Dawson, C., Wheeler, M. F., Nguyen, T. M., and Poole, S. W., “Simulation of Hydrocarbon in Groundwater,” Cray Channels, Vol. 8, No. 3, pp. 14-19, 1986.
@@ -290,8 +334,13 @@ feature_text: |
 32. Guillot, M. J., Blain, C. A., and Dawson, C. N., “Implementation of a discontinuous Galerkin discretization of the conservation of mass equation in QUODDY,” Naval Research Laboratory NFL/FR/7322-03-10,050, Stennis Space Center, MS, 39529-5004, 2003.
 33. Usadi, A., and Dawson, C., “50 Years of ADI Methods: Celebrating the Contributions of Jim Douglas, Don Peaceman and Henry Rachford,” SIAM News, Vol. 39, No. 2, March 2006.
 
+</details>
 
 #### Book Chapters (Authored/Co-Authored, Edited/Co-Edited)
+
+<details>
+
+<summary> details </summary>
 
 1. Dawson, C., and Wheeler, M. F., “An Operator-Splitting Method for Advection-Diffusion-Reaction Problems,” MAFELAP VI, J. A. Whiteman, ed., Academic Press, pp. 463-482, 1988.
 2. Dawson, C., “Simulation of Nonlinear Contaminant Transport in Groundwater by a Higher Order Godunov-Mixed Finite Element Method,” in Applications of Supercomputers in Engineering II, C. A. Brebbia, D. Howard, and A. Peters, eds., Computational Mechanics Publications, Southampton, UK, pp. 419-433, 1991.
@@ -307,7 +356,13 @@ feature_text: |
 12. Dawson, C., “A local timestepping Runge-Kutta discontinuous Galerkin method for hurricane storm surge modeling,” in Recent Developments in Discontinuous Galerkin Finite Element Methods for Partial Differential Equations, X. Feng, O. Karakashian and Y. Xing, eds., IMA Volumes in Mathematics and its Applications, Vol 157, Springer, pp. 133-148, 2013.
 
 
+</details>
+
 #### Technical Reports
+
+<details>
+
+<summary> details </summary>
 
 1. Chippada, S., Dawson, C. N., Martinez, M. and Wheeler, M. F., “ A Godunov-type finite volume method for the system of shallow water equations,” TICAM Report 96-57, submitted to CMAME.
 2. Chippada, S., Dawson, C. N., Martinez, M. and Wheeler, M. F., “Finite element approximations to the system of shallow water equations, part II: Discrete time a priori error estimates,” TICAM Report 96- 34, submitted to SIAM Journal on Numerical Analysis.
@@ -328,3 +383,6 @@ feature_text: |
 17. Dawson, C., Parr, V.J., and Wheeler, M.F., “Issues in Parallel Computation of Flow and Transport in Surface Waters,” TICAM Report 00-13, May 2000.
 18. Dawson, C., and Kirby, R., “High Resolution Schemes for Conservation Laws with Locally Varying Time Steps,” TICAM Report 00-14, May 2000.
 19. Dawson, C. and Proft, J., “A Priori Error Estimates for Interior Penalty Versions of the Local Discontinuous Galerkin Method Applied to Transport Equations,” TICAM Report 00-16, June 2000.
+
+
+</details>
