@@ -4,7 +4,7 @@ feature_text: |
  #### Computational Hydraulics Group
 
 
-feature_image: "/assets/cover_photo.png"
+# feature_image: "/assets/cover_photo.png"
 
 ---
 

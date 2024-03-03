@@ -1,7 +1,7 @@
 ---
 title: News
 feature_text: |
-  News & Outreach
+  #### News & Outreach
 
 feature_image: "/assets/cover_photo.png"
 layout: blog

@@ -1,9 +1,9 @@
 ---
 title: List of Publications
 feature_text: |
-  # Publications
+  #### Publications
   
-feature_image: "/assets/cover_photo.png" 
+# feature_image: "/assets/cover_photo.png" 
 ---
 
 

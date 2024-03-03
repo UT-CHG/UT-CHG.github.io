@@ -37,7 +37,7 @@ plugins:
 # 3. Gem settings [LH: delete jekyll-mentions, twitter and social]
 paginate: 3 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-author: FloDisMod team # jekyll-seo-tag > default author
+author: UT_CHG # jekyll-seo-tag > default author
 
 
 # 4. Jekyll settings [LH: update timezone to America/Chicagp]
@@ -80,9 +80,9 @@ defaults:
 # 7. Site settings [LT: change the info, delete disqus, google_analytics]
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "FloDisMod" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/FloDisMod_Wordmark__tagline.png" # Site logo, also used in jekyll-seo-tag
-description: "A Framework for Flood and Disease Modeling" # Site description and default description, also used in jekyll-seo-tag
+title: "CHG" # Site name or title, also used in jekyll-seo-tag
+# logo: "/assets/logos/FloDisMod_Wordmark__tagline.png" # Site logo, also used in jekyll-seo-tag
+description: "Computational Hydraulics Group" # Site description and default description, also used in jekyll-seo-tag
 url: "https://ut-chg.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/UT-CHG/UT-CHG.github.io"
@@ -93,15 +93,15 @@ short_name: "FDM" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons [TODO:make those with Procreate]
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+# favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+#   16: '/assets/logos/logo@16px.png'
+#   32: '/assets/logos/logo@32px.png'
+#   96: '/assets/logos/logo@96px.png'
+#   120: '/assets/logos/logo@120px.png'
+#   144: '/assets/logos/logo@144px.png'
+#   180: '/assets/logos/logo@180px.png'
+#   512: '/assets/logos/logo@512px.png'
+#   1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation [LT: modify all the files mentioned here]
 navigation_header:
@@ -115,8 +115,8 @@ navigation_header:
   url: /news/
 - title: PUBLICATIONS
   url: /publications/
-- title: CONTACT
-  url: /contact/
+# - title: CONTACT
+#   url: /contact/
 - title: SEARCH
   url: /search/
 

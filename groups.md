@@ -4,7 +4,7 @@ feature_text: |
  #### Meet Our Team
 
 
-feature_image: "/assets/cover_photo.png"
+# feature_image: "/assets/cover_photo.png"
 
 ---
 
