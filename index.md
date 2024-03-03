@@ -1,7 +1,6 @@
 ---
 title: CHG
-feature_text: |
- #### Computational Hydraulics Group
+feature_text: Computational Hydraulics Group
 
 
 # feature_image: "/assets/cover_photo.png"
