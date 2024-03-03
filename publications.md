@@ -266,6 +266,8 @@ feature_text: Publications
 
 </details>
 
+<br>
+
 
 #### Refereed Conference Proceedings
 
@@ -287,6 +289,8 @@ feature_text: Publications
 
 
 </details>
+
+<br>
 
 #### Other Major Publications
 
@@ -332,6 +336,9 @@ feature_text: Publications
 
 </details>
 
+<br>
+
+
 #### Book Chapters (Authored/Co-Authored, Edited/Co-Edited)
 
 <details markdown=1>
@@ -353,6 +360,8 @@ feature_text: Publications
 
 
 </details>
+
+<br>
 
 #### Technical Reports
 
