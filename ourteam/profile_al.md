@@ -1,8 +1,5 @@
 ---
-feature_text: |
-  ## Team
-
-feature_image: "/assets/cover_photo.png"
+feature_text: Meet Our Team
 ---
 {% include profile-short.html name="Dr Albert Cerrone" position="Research Assistant Professor, The Oden Institute, University of Texas" position2="Research Assistant Professor, Civil and Environmental Engineering and Earth Sciences, University of Notre Dame"  bio="Albert received his PhD in 2014 from Cornell University, working under Tony Ingraffea in the Cornell Fracture Group.  There, he was engaged in multiscale modeling, specifically predicting microcrack nucleation in superalloys.  After Cornell, he joined the Lifing Technologies Laboratory at GE Research under Doug DeCesare where he investigated the durability of ceramic matrix composites (CMCs) and developed new technologies for Digital Twin including cumulative damage models.
 

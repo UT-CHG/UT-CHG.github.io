@@ -1,9 +1,7 @@
 ---
-feature_text: |
-  ## Team
-
-feature_image: "/assets/cover_photo.png"
+feature_text: Meet Our Team
 ---
+
 {% include profile-short.html name="Ashton Cole" position="Undergraduate Research Student, University of Texas at Austin"  bio="" link="/assets/team_profile/profile_pic.png"%}
 
 

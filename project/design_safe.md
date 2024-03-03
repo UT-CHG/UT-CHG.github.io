@@ -1,16 +1,13 @@
 ---
 title: Natural Hazards Engineering Research Infrastructure DesignSafe-CI
-feature_text: |
-  Research
-
-feature_image: "/assets/cover_photo/pier.png"
-feature_credit: Photo by Dr. Tamer Oraby
+feature_text: Research
 
 ---
 <br />
 
 National Science Foundation
 
+Under Construction
 
 Ellen Rathje, Clint Dawson, Jamie Padgett, Jean-Paul Pinelli, Dan Stanzione
 [www.designsafe-ci.org](www.designsafe-ci.org)

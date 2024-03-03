@@ -1,8 +1,9 @@
 ---
 title: ADCIRC Storm Surge Modeling in DesignSafe 101 with Dr. Clint Dawson 
+feature_text: News & Outreach
 categories:
 - Workshop
-feature_image: "https://flodismod.github.io/assets/cover_photo.png"
+
 ---
 
 Workshop Time: Wednesday, May 17, 2:00pm - 3:00pm US Central Time

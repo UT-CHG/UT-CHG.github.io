@@ -1,15 +1,13 @@
 ---
 title: Building Coupled Storm Surge and Wave Operational Forecasting Capacity for Western Alaska
-feature_text: |
-  Research
-
-feature_image: "/assets/cover_photo/pier.png"
-feature_credit: Photo by Dr. Tamer Oraby
+feature_text: Research
 
 ---
 <br />
 
 NOAA
+
+Under Construction
 
 
 Clint Dawson, Joannes Westerink and  Andre van der Westhuysen

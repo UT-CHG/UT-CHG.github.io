@@ -1,10 +1,6 @@
 ---
 title: Model Flooding and Storm Surges
-feature_text: |
-  Research
-
-feature_image: "/assets/cover_photo/pier.png"
-feature_credit: Photo by Dr. Tamer Oraby
+feature_text: Research
 
 ---
 <br />

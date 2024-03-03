@@ -1,15 +1,14 @@
 ---
 title: Detecting, Tracking, and Forecasting of Hazardous Spills in the Red Sea
-feature_text: |
-  Research
-
-feature_image: "/assets/cover_photo/pier.png"
-feature_credit: Photo by Dr. Tamer Oraby
+feature_text: Research
 
 ---
 <br />
 
 KAUST
+
+
+Under Construction
 
 
 Clint Dawson, Omar Knio and Ibrahim Hoteit

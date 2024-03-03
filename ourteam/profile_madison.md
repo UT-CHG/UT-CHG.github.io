@@ -1,8 +1,5 @@
 ---
-feature_text: |
-  ## Team
-
-feature_image: "/assets/cover_photo.png"
+feature_text: Meet Our Team
 ---
 {% include profile-short.html name="Madison Russ" position="Research Engineer/Scientist IV, The Oden Institute, University of Texas at Austin" position2=""  bio="
 " link="/assets/team_profile/profile_pic.png"%}

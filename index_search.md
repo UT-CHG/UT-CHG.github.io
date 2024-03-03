@@ -1,8 +1,6 @@
 ---
 title:
-feature_text: |
-  ## News - index
-feature_image: "/assets/cover_photo.png"
+feature_text: News - Index Search
 layout: categories
 excerpt: "Category index"
 aside: true

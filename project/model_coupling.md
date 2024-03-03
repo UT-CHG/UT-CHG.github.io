@@ -1,15 +1,14 @@
 ---
 title: Coupling the National Water Model to the Coastal Ocean for Predicting Water Hazards
-feature_text: |
-  Research
-
-feature_image: "/assets/cover_photo/pier.png"
-feature_credit: Photo by Dr. Tamer Oraby
+feature_text: Research
 
 ---
 <br />
 
 NOAA
+
+
+Under Construction
 
 
 Clint Dawson, Brian Blanton and Rick Luettich
