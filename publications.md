@@ -8,12 +8,9 @@ feature_text: |
 
 
 <br>
-
-
 #### Refereed Journal Publications
 
-<details>
-
+<details markdown=1>
 <summary> 1988 - 2000 </summary>
 
 
@@ -56,10 +53,9 @@ feature_text: |
   37. Bryant, S., Dawson, C. and van Duijn, C. J., “Dispersion-induced chromatographic waves,” Ind. Eng. Chem. Res., Vol. 39, pp. 2682-2691, 2000.
   38. Dawson, C. and Martinez-Canales, M., “Finite element approximations to the system of shallow water equations, Part III: On the treatment of boundary conditions,’’ SIAM Journal on Numerical Analysis, 38 (1): 149-159, 2000.
 
-
 </details>
 
-<details>
+<details markdown=1>
 
 <summary> 2001 - 2010 </summary>
 
@@ -162,7 +158,7 @@ feature_text: |
 
 </details>
 
-<details>
+<details markdown=1>
 
 <summary> 2011 - 2020 </summary>
 
@@ -264,7 +260,7 @@ feature_text: |
 
 </details>
 
-<details>
+<details markdown=1>
 
 <summary> 2021 - now </summary>
 
@@ -274,7 +270,7 @@ feature_text: |
 
 #### Refereed Conference Proceedings
 
-<details>
+<details markdown=1>
 
 <summary> details </summary>
 
@@ -295,7 +291,7 @@ feature_text: |
 
 #### Other Major Publications
 
-<details>
+<details markdown=1>
 
 <summary> details </summary>
 
@@ -339,7 +335,7 @@ feature_text: |
 
 #### Book Chapters (Authored/Co-Authored, Edited/Co-Edited)
 
-<details>
+<details markdown=1>
 
 <summary> details </summary>
 
@@ -361,7 +357,7 @@ feature_text: |
 
 #### Technical Reports
 
-<details>
+<details markdown=1>
 
 <summary> details </summary>
 
