@@ -10,6 +10,5 @@ feature_image: "/assets/cover_photo.png"
 
 []()
 
-text text text
 
 {% include button.html text="Back" link="/groups/" %}
