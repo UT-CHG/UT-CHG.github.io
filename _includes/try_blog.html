@@ -3,8 +3,37 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
+    /* background-color: ; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    margin: 10px 10px 10px;
+    transition: 0.3s;
+    width: 95%;
   }
-  .cardthis {
+
+  .flex-container-title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    text-align: left;
+  }
+
+  .distance{
+    margin: 20pt;
+  }
+
+  .left{
+  width: 20%;
+  margin-left: 5%;
+}
+
+.right{
+  margin-top: 0px;
+}
+.flex-container-news:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  /* .cardthis {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -21,7 +50,7 @@
     .cardthis {
       width: 80%;
     }
-  }
+  } */
   
 
   .card:hover {
@@ -31,8 +60,13 @@
   
   
   </style>
-<div class="flex-container-news">
-  <div >
+
+
+<div class="flex-container-title column left">
+  <h5>Latest Post from NEWS & OUTREACH  </h5>
+</div>
+<div class="flex-container-news column right">
+  <div class="distance">
   {% for post in site.posts limit:1 %}
     {% assign page = site.posts.first %}
 
@@ -48,4 +82,5 @@
   {% endfor %}
   </div>
 </div>
+
 

@@ -13,7 +13,7 @@ Under Construction
 <br>
 #### Refereed Journal Publications
 
-<details markdown=1>
+<details markdown=1 >
 <summary> 1988 - 2000 </summary>
 
 
