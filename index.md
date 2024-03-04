@@ -16,7 +16,7 @@ The **[ADvanced CIRculation modeling framework (ADCIRC)](https://adcirc.org)** i
 The **CHG** also has a long history in development of discontinuous Galerkin finite element methods and its members are among the developers of the high fidelity coastal and riverine flow **[Discontinuous Galerkin Shallow Water Equations Model (DG-SWEM)](https://users.oden.utexas.edu/~michoski/dgswem_doc/index.html)**. DG-SWEM is developed as a collaboration between the **CHG**, **Ohio State University**, and the **University of Notre Dame**. 
 
 
-In addition to these models, the **CHG** uses and contributes to the development of other models, including the [Adaptive Hydraulics (ADH)](https://www.erdc.usace.army.mil/Locations/CHL/AdH/) model from the **United States Army Corps of Engineers**. Recently, **CHG** researchers have developed software to couple some of the aforementioned models in an effort to maximize the exploitation of the strengths of each individual model. 
+In addition to these models, the **CHG** uses and contributes to the development of other models, including the **[Adaptive Hydraulics (ADH)](https://www.erdc.usace.army.mil/Locations/CHL/AdH/)** model from the **United States Army Corps of Engineers**. Recently, **CHG** researchers have developed software to couple some of the aforementioned models in an effort to maximize the exploitation of the strengths of each individual model. 
 
 
 
