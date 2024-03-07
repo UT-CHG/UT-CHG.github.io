@@ -1,8 +1,6 @@
+---
 title: Current Members
 feature_text:  Meet Our Team
-
-
-# feature_image: "/assets/cover_photo.png"
 
 ---
 
