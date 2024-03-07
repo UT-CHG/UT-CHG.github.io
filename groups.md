@@ -1,4 +1,3 @@
----
 title: Current Members
 feature_text:  Meet Our Team
 
@@ -27,34 +26,34 @@ Under Construction
 * Aizinger, V., 2003, “A Discontinuous Galerkin Method for Two and Three Dimensional Shallow Water Equations.”
 * Ahn, Hyung, 2005, “A New Incompressible Navier-Stokes Method with General Hybrid Meshes and Its Application to Flow/Structure Interaction.”
 * Liu, Ruijie, 2004, “Discontinuous Galerkin Finite Element Solution for Poromechanics” (with M. F. Wheeler)
-* Baird, J., Summer 2006, “Numerical Analysis of the Representer Method Applied to Reservoir Modeling.”
-* Iglesias-Hernandez, Marco, August 2008, “An Iterative Representer-Based Scheme for Data Inversion in Reservoir Modeling.”
-* Santillana, Mauricio, August 2008, “Analysis and Numerical Simulation of the Diffusive Wave Approximation of the Shallow Water Equations.”
-* Mirabito, Chris, August, 2011, “Analysis, Implementation, and Verification of a Discontinuous Galerkin Method for Prediction of Storm Surges and Coastal Deformation.”
-* Povich, Timothy, December 2012, “Discontinuous Galerkin (DG) Methods for Variable Density Groundwater Flow and Solute Transport.”
-* Mattis, Steve, August 2013, “Mathematical Modeling of Flow through Vegetated Regions.”
-* Meixner, Jessica, August 2013, “Discontinuous Galerkin Methods for Spectral Wave/Circulation
+* Baird, J.,  2006, “Numerical Analysis of the Representer Method Applied to Reservoir Modeling.”
+* Iglesias-Hernandez, Marco,  2008, “An Iterative Representer-Based Scheme for Data Inversion in Reservoir Modeling.”
+* Santillana, Mauricio,  2008, “Analysis and Numerical Simulation of the Diffusive Wave Approximation of the Shallow Water Equations.”
+* Mirabito, Chris, , 2011, “Analysis, Implementation, and Verification of a Discontinuous Galerkin Method for Prediction of Storm Surges and Coastal Deformation.”
+* Povich, Timothy,  2012, “Discontinuous Galerkin (DG) Methods for Variable Density Groundwater Flow and Solute Transport.”
+* Mattis, Steve,  2013, “Mathematical Modeling of Flow through Vegetated Regions.”
+* Meixner, Jessica,  2013, “Discontinuous Galerkin Methods for Spectral Wave/Circulation
 Modeling.”
-* Mayo, Talea, December 2013, “Data Assimilation for Parameter Estimation in Coastal Ocean
+* Mayo, Talea,  2013, “Data Assimilation for Parameter Estimation in Coastal Ocean
 Hydrodynamics Modeling.”
-* Panda, Nishant, May 2014, “Discontinuous Galerkin Methods for Resolving Nonlinear and Dispersive
+* Panda, Nishant,  2014, “Discontinuous Galerkin Methods for Resolving Nonlinear and Dispersive
 Nearshore Waves.”
-* Graham, Lindley, August 2015, "Adaptive Measure-Theoretic Parameter Estimation for Coastal Ocean Modeling."
-* Arabshahi, Hamidreza, August 2016, “Hybrid discontinuous Galerkin methods for shallow water equations,”
-* Neupane, Prapti, August 2016, “Advances towards a multi-dimensional discontinuous Galerkin method for modeling hurricane storm surge induced flooding in coastal watersheds.”
-* Du, Wei, December 2016, “Mathematical modeling of two-phase environmental flow and hydraulic structure interaction.”
-* Samii, Ali, February 2017, “A hybridized discontinuous Galerkin method for nonlinear dispersive water waves.”
-* Jain, Pushkar Kumar, June 2018, “Dynamically adaptive data-driven simulation of extreme hydrologic flows.”
-* Chen, Chen 
-* Choudhary, Gajanan 
-* He, Jiachuan
-* Jain, Pushkar Kumar 
-* Lin, Yuxiang
-* Estes, Samuel 
-* Bremer, Max 
-* Kazhyken, Kazbek 
-* Li, Wei
-
+* Graham, Lindley,  2015, "Adaptive Measure-Theoretic Parameter Estimation for Coastal Ocean Modeling."
+* Arabshahi, Hamidreza,  2016, “Hybrid discontinuous Galerkin methods for shallow water equations,”
+* Neupane, Prapti,  2016, “Advances towards a multi-dimensional discontinuous Galerkin method for modeling hurricane storm surge induced flooding in coastal watersheds.”
+* Du, Wei,  2016, “Mathematical modeling of two-phase environmental flow and hydraulic structure interaction.”
+* Samii, Ali,  2017, “A hybridized discontinuous Galerkin method for nonlinear dispersive water waves.”
+* Jain, Pushkar Kumar,  2018, “Dynamically adaptive data-driven simulation of extreme hydrologic flows”
+* He, Jiachuan, 2018, "Data-driven uncertainty quantification for predictive subsurface flow and transport modeling"
+* Chen, Chen, 2019, "Intrusive polynomial chaos uncertainty quantification on shallow water system"
+* Choudhary, Gajanan, 2019, "Coupled atmospheric, hydrodynamic, and hydrologic models for simulation of complex phenomena"
+* Lin, Yuxiang, 2020, "Numerical modeling of above-ground storage tank subject to multi-hazard event"
+* Estes, Samuel, 2020, "Uncertainty quantification in reservoirs with faults using a seMquential approach"
+* Bremer, Max, 2020, "Task-based parallelism for hurricane storm surge modeling"
+* Kazhyken, Kazbek, 2021, "Coupling of a nonlinear dispersive water wave model with sediment transport and seabed morphodynamic models for application in near-shore areas"
+* Li, Wei, 2021, "Data-driven modeling for compound flooding simulation"
+* Mark Loveland, 2023, "WAVEx : a new spectral wind wave model using stabilized finite elements"
+* Carlos Del-Castilo Negrete, 2023, "Sequential data consistent inversion algorithms for parameter estimation in coastal storm surge models using high performance computing applications"
 
 #### Former M. S. Students
 
