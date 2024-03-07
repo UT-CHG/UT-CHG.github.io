@@ -10,6 +10,10 @@ feature_text:  Meet Our Team
 
 {% include profile-card.html%}
 
+<br>
+<br>
+
+{% include figure.html image="/assets/team_profile/Computational_Hydraulics_Group-formal.JPG" caption="2023 Group Photo" %}
 
 ## Alumni
 

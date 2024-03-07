@@ -81,7 +81,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "CHG" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/place-holder.png" 
+logo: "/assets/logos/CHG-logo.png" 
 # logo: "/assets/logos/FloDisMod_Wordmark__tagline.png" # Site logo, also used in jekyll-seo-tag
 description: "Computational Hydraulics Group" # Site description and default description, also used in jekyll-seo-tag
 url: "https://ut-chg.github.io" # Site url, also used in jekyll-seo-tag
