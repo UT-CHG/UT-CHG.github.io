@@ -44,11 +44,12 @@ Nearshore Waves.”
 * Chen, Chen, 2019, "Intrusive polynomial chaos uncertainty quantification on shallow water system"
 * Choudhary, Gajanan, 2019, "Coupled atmospheric, hydrodynamic, and hydrologic models for simulation of complex phenomena"
 * Lin, Yuxiang, 2020, "Numerical modeling of above-ground storage tank subject to multi-hazard event"
-* Estes, Samuel, 2020, "Uncertainty quantification in reservoirs with faults using a sequential approach"
+* Estes, Samuel, 2020, "Uncertainty quantification in reservoirs with faults using a seMquential approach"
 * Bremer, Max, 2020, "Task-based parallelism for hurricane storm surge modeling"
-* Kazhyken, Kazbek 
-* Li, Wei
-
+* Kazhyken, Kazbek, 2021, "Coupling of a nonlinear dispersive water wave model with sediment transport and seabed morphodynamic models for application in near-shore areas"
+* Li, Wei, 2021, "Data-driven modeling for compound flooding simulation"
+* Mark Loveland, 2023, "WAVEx : a new spectral wind wave model using stabilized finite elements"
+* Carlos Del-Castilo Negrete, 2023, "Sequential data consistent inversion algorithms for parameter estimation in coastal storm surge models using high performance computing applications"
 
 #### Former M. S. Students
 
