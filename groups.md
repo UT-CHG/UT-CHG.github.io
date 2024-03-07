@@ -1,4 +1,3 @@
-![image](https://github.com/UT-CHG/UT-CHG.github.io/assets/63124061/e30c578b-b572-4f74-a6c7-b4d94e474eb5)---
 title: Current Members
 feature_text:  Meet Our Team
 
