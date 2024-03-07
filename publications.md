@@ -260,12 +260,140 @@ Under Construction
   internal jumps,” Computational Geociences 22, pp. 1149-1159, 2018.
   160. Sraj, I., Mandli, K.T., Knio, O., Dawson, C. and Hoteit, I., “Quantifying uncertainties in fault slip
   distribution during the Tohoku tsunami using polynomial chaos,” Ocean Dynamics 67, pp. 1535-1551, 2017.
+  161. Dietrich, J. C., A. Muhammad, M. Curcic, A. Fathi, C. N. Dawson, Shuyi S. Chen, and R. A. Luettich Jr. "Sensitivity of storm surge predictions to atmospheric forcing during Hurricane Isaac." Journal of Waterway, Port, Coastal, and Ocean Engineering 144, no. 1 (2018): 04017035.
+  162. Proft, Jennifer, Clint Dawson, Philip Bedient, Ali Samii, Benjamin Bass, and Nick Irza. "Withdrawn: Modeling and Evaluation of Hurricane Storm Surge Mitigation." In 98th American Meteorological Society Annual Meeting. AMS, 2018.
+  163. Dawson, Clint, Jennifer Proft, Ali Samii, and Rachel Hess. "Modeling of Mitigation Strategies for Tropical Cyclones along the Texas Coast Using the SWAN+ ADCIRC Framework." In 98th American Meteorological Society Annual Meeting. AMS, 2018.
+  164. Bremer, Max, Clint Dawson, Zachary D. Byerly, Hartmut Kaiser, and Craig Michoski. "Performance Comparison of HPX versus MPI+ X Threading Models for Finite-Element Models of Environmental Flows." In 98th American Meteorological Society Annual Meeting. AMS, 2018.
+  165. Cyriac, R., J. C. Dietrich, J. G. Fleming, B. O. Blanton, C. Kaiser, C. N. Dawson, and R. A. Luettich. "Variability in Coastal Flooding predictions due to forecast errors during Hurricane Arthur." Coastal Engineering 137 (2018): 59-78.
+  166. Mattis, Steven A., Christopher E. Kees, Maya V. Wei, Aggelos Dimakopoulos, and Clint N. Dawson. "Computational model for wave attenuation by flexible vegetation." Journal of Waterway, Port, Coastal, and Ocean Engineering 145, no. 1 (2019): 04018033.
+  167. Blanton, Brian, Rick Luettich, Clint Dawson, and Jason G. Fleming. "Coupling the National Water Model to the Coastal Ocean for Predicting Water Hazards." In 99th American Meteorological Society Annual Meeting. AMS, 2019.
+  168. Dawson, Clint, Oliver Fringer, Ruoying He, David Ralston, and Joseph Zhang. "NSF Workshop on the future of coastal and estuarine modeling June 18-21, 2018 StateView Hotel and Conference Center North Carolina State University Raleigh, NC." In Workshop committee. 2019.
+  169. Thomas, Ajimon, J. C. Dietrich, T. G. Asher, M. Bell, B. O. Blanton, J. H. Copeland, A. T. Cox, C. N. Dawson, J. G. Fleming, and R. A. Luettich. "Influence of storm timing and forward speed on tides and storm surge during Hurricane Matthew." Ocean Modelling 137 (2019): 1-19.
+  170. Goff, John A., John M. Swartz, Sean PS Gulick, Clint N. Dawson, and Amaia Ruiz de Alegria-Arzaburu. "An outflow event on the left side of Hurricane Harvey: Erosion of barrier sand and seaward transport through Aransas Pass, Texas." Geomorphology 334 (2019): 44-57.
+  171. Esteva, Maria, Craig Jansen, Pedro Arduino, Mahyar Sharifi-Mood, Clint N. Dawson, and Josue Balandrano-Coronel. "Curation and publication of simulation data in DesignSafe, a natural hazards engineering open platform and repository." Publications 7, no. 3 (2019): 51.
+  172. Bremer, Maximilian, Kazbek Kazhyken, Hartmut Kaiser, Craig Michoski, and Clint Dawson. "Performance comparison of HPX versus traditional parallelization strategies for the discontinuous Galerkin method." Journal of Scientific Computing 80 (2019): 878-902.
+  173. Raboudi, Naila F., Boujemaa Ait-El-Fquih, Clint Dawson, and Ibrahim Hoteit. "Combining Hybrid and One-Step-Ahead Smoothing for Efficient Short-Range Storm Surge Forecasting with an Ensemble Kalman Filter." Monthly Weather Review 147, no. 9 (2019): 3283-3300.
+  174. Samii, Ali, Kazbek Kazhyken, Craig Michoski, and Clint Dawson. "A comparison of the explicit and implicit hybridizable discontinuous Galerkin methods for nonlinear shallow water equations." Journal of Scientific Computing 80 (2019): 1936-1956.
+  175. Brus, Steven R., Damrongsak Wirasaet, Ethan J. Kubatko, Joannes J. Westerink, and Clint Dawson. "High-order discontinuous Galerkin methods for coastal hydrodynamics applications." Computer Methods in Applied Mechanics and Engineering 355 (2019): 860-899.
+  176. Fringer, Oliver B., Clint N. Dawson, Ruoying He, David K. Ralston, and Y. Joseph Zhang. "The future of coastal and estuarine modeling: Findings from a workshop." Ocean Modelling 143 (2019): 101458.
+  177. Wang, Ke, Jingyi Chen, Amin Kiaghadi, and Clint Dawson. "Mapping Surface Roughness over the Greater Houston Area using Polarimetric and Interferometric Synthetic Aperture Radar Data." In AGU Fall Meeting Abstracts, vol. 2019, pp. G13C-0565. 2019.
+
+
 
 </details>
 
 <details markdown=1>
 
 <summary> 2021 - now </summary>
+
+
+
+
+1. Valseth, Eirik, and Clint Dawson. "Unconditionally Stable Space-Time Finite Element Method for the Shallow Water Equations." (2020).
+2. Robb, M., J. Blackburn, A. Kennedy, C. Dawson, C. Roscoe, D. Aggarwal, and A. Martinez. "A Virtual Rapid Response Pathway for Risk Management through COVID-19." Journal of the Canadian Academy of Child and Adolescent Psychiatry (2020): 273-273.
+3. Ling, Guoming, Damrongsak Wirasaet, Joannes Westerink, David H. Richter, Brian Joyce, William Pringle, Maria Teresa Contreras Vargas et al. "Studies on Parameterizations of Sea Ice Effect in a Storm Surge Model for Western Alaska." In 100th American Meteorological Society Annual Meeting. AMS, 2020.
+4. Steffen, Kyle Robert, Troy Butler, Clint N. Dawson, and Donald Estep. "Numerical Method for a Stochastic Inverse Problem with Application to Wind Drag Parameterization." In 100th American Meteorological Society Annual Meeting. AMS, 2020.
+5. Sochala, Pierre, Chen Chen, Clint Dawson, and Mohamed Iskandarani. "A polynomial chaos framework for probabilistic predictions of storm surge events." Computational geosciences 24 (2020): 109-128.
+6. Cyriac, R., J. C. Dietrich, C. A. Blain, C. N. Dawson, K. M. Dresback, A. Fathi, M. V. Bilskie, H. C. Graber, S. C. Hagen, and R. L. Kolar. "Wind and tide effects on the Choctawhatchee Bay plume and implications for surface transport at Destin Inlet." Regional studies in marine science 35 (2020): 101131.
+7. Singh, Gurpreet, Soumyajit Gupta, Matt Lease, and Clint N. Dawson. "TIME: A transparent, interpretable, model-adaptive and explainable neural network for dynamic physical processes." arXiv preprint arXiv:2003.02426 (2020).
+8. Ling, Guoming, Damrongsak Wirasaet, Joannes Westerink, David H. Richter, William Pringle, Maria Teresa Contreras Vargas, Mindo Choi et al. "Investigation of Surface Drag Parameterization Considering Sea Ice in Storm Surge Modeling of Western Alaska Using ADCIRC." (2020).
+9. Choudhary, Gajanan K., and Clint Dawson. "pyADCIRC: A Python interface for accessing functions and variables of ADCIRC in Python." (2020).
+10. Bernier, Carl, Jamie E. Padgett, Yuxiang Lin, Clint N. Dawson, Pedro Lomonaco, and Daniel T. Cox. "Laboratory experiments of vertical cylinders representative of aboveground storage tanks subjected to waves." Journal of Structural Engineering 146, no. 5 (2020): 04720001.
+11. Dawson, Clint N., Todd F. Dupont, and Mary F. Wheeler. "The rate of convergence of the modified method of characteristics for linear advection equations in one dimension." In Mathematics for large scale computing, pp. 115-126. CRC Press, 2020.
+12. Siripatana, Adil, Olivier Le Maitre, Omar Knio, Clint Dawson, and Ibrahim Hoteit. "Bayesian inference of spatially varying Manning’sn coefficients in an idealized coastal ocean model using a generalized Karhunen-Loève expansion and polynomial chaos." Ocean Dynamics 70 (2020): 1103-1127.
+13. Singh, Gurpreet, Soumyajit Gupta, and Clint N. Dawson. "Prevention is Better than Cure: Handling Basis Collapse and Transparency in Dense Networks." arXiv preprint arXiv:2008.09878 (2020).
+14. Wang, Ke, Jingyi Chen, Amin Kiaghadi, and Clint Dawson. "A New Algorithm for Estimating Surface Roughness Using Interferometric Synthetic Aperture Radar (InSAR) Data." In IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium, pp. 6674-6677. IEEE, 2020.
+15. Valseth, Eirik, Pouria Behnoudfar, Clint Dawson, and Albert Romkes. "Automatic variationally stable analysis for finite element computations: Transient convection-diffusion problems." Computers & Mathematics with Applications 157 (2024): 15-26.
+16. Singh, Gurpreet, Soumyajit Gupta, Matthew Lease, and Clint Dawson. "Range-Net: A high precision streaming SVD for big data applications." arXiv preprint arXiv:2010.14226 (2020).
+17. Valseth, Eirik, and Clint Dawson. "An unconditionally stable space–time FE method for the Korteweg–de Vries equation." Computer Methods in Applied Mechanics and Engineering 371 (2020): 113297.
+18. Wang, Ke, Jingyi Chen, Amin Kiaghadi, Clint Dawson, and Tommy Hunter. "A new radar-based land-cover classification algorithm for accurate flood risk analysis." In AGU Fall Meeting Abstracts, vol. 2020, pp. G024-03. 2020.
+19. Kiaghadi, Amin, Mark Loveland, Clint Dawson, Shubhra Misra, Helena Mosser, and Alessandro Parola. "Simulating Compound Flooding: A Comparison between HEC-RAS and ADCIRC." In AGU Fall Meeting Abstracts, vol. 2020, pp. OS002-0004. 2020.
+20. Rathje, Ellen M., Clint Dawson, Jamie E. Padgett, Jean-Paul Pinelli, Dan Stanzione, Pedro Arduino, Scott J. Brandenberg et al. "Enhancing research in natural hazards engineering through the DesignSafe cyberinfrastructure." Frontiers in Built Environment 6 (2020): 547706.
+21. Hoteit, Ibrahim, Yasser Abualnaja, Shehzad Afzal, Boujemaa Ait-El-Fquih, Triantaphyllos Akylas, Charls Antony, Clint Dawson et al. "Towards an end-to-end analysis and prediction system for weather, climate, and Marine applications in the Red Sea." Bulletin of the American Meteorological Society 102, no. 1 (2021): E99-E122.
+22. Loveland, Mark, Eirik Valseth, Clint Dawson, and Edward Buskey. "Simulating Potential Impacts of Dredging on Local Fish Populations." (2021).
+23. Dawson, Clinton N., Carlos Del-Castillo-Negrete, Ashutosh Shukla, Benjamin Pachev, Carola Kaiser, and Erhan Kutanoglu. "ADCIRC Simulation of Synthetic Storms in the Gulf of Mexico." (2021).
+24. Singh, Gurpreet, Soumyajit Gupta, Matthew Lease, and Clint Dawson. "A Hybrid 2-stage Neural Optimization for Pareto Front Extraction." arXiv preprint arXiv:2101.11684 (2021).
+25. Li, Wei, Amin Kiaghadi, and Clint Dawson. "High temporal resolution rainfall–runoff modeling using long-short-term-memory (LSTM) networks." Neural Computing and Applications 33 (2021): 1261-1278.
+26. Panda, Nishant, M. Giselle Fernández-Godino, Humberto C. Godinez, and Clint Dawson. "A data-driven non-linear assimilation framework with neural networks." Computational Geosciences 25 (2021): 233-242.
+27. Loveland, Mark, Amin Kiaghadi, Clint N. Dawson, Hanadi S. Rifai, Shubhra Misra, Helena Mosser, and Alessandro Parola. "Developing a modeling framework to simulate compound flooding: When storm surge interacts with Riverine flow." Frontiers in Climate 2 (2021): 609610.
+28. Singh, Gurpreet, Soumyajit Gupta, and Clint Dawson. "SCA-Net: A Self-Correcting Two-Layer Autoencoder for Hyper-spectral Unmixing." arXiv preprint arXiv:2102.05713 (2021).
+29. Kazhyken, Kazbek, Juha Videman, and Clint Dawson. "Discontinuous Galerkin methods for a dispersive wave hydro-morphodynamic model with bed-load transport." Computer Methods in Applied Mechanics and Engineering 375 (2021): 113592.
+30. Dawson, Clint, Mark Loveland, and Eirik Valseth. "Potential Effects of Deepening of the Aransas Ship Channel on Particle Transport: Implications for Recruitment of Estuarine Dependent Larvae." (2021).
+31. Kiaghadi, Amin, Hanadi S. Rifai, and Clint N. Dawson. "The presence of Superfund sites as a determinant of life expectancy in the United States." Nature communications 12, no. 1 (2021): 1947.
+32. Kazhyken, Kazbek, Juha Videman, and Clint Dawson. "Discontinuous Galerkin methods for a dispersive wave hydro-sediment-morphodynamic model." Computer Methods in Applied Mechanics and Engineering 377 (2021): 113684.
+33. Sun, Alexander Y., Bridget R. Scanlon, Clint Dawson, Paola Passalacqua, Dev Niyogi, Zong-Liang Yang, and Susanne Pierce. Bridging Multiscale Processes in Earth System Models with Physics-Guided Hierarchical Machine Learning. No. AI4ESP-1128. Artificial Intelligence for Earth System Predictability (AI4ESP) Collaboration (United States), 2021.
+34. Bremer, Maximilian, John Bachan, Cy Chan, and Clint Dawson. "Speculative parallel execution for local timestepping." In Proceedings of the 2021 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation, pp. 83-94. 2021.
+35. Li, Wei, Amin Kiaghadi, and Clint Dawson. "Exploring the best sequence LSTM modeling architecture for flood prediction." Neural Computing and Applications 33 (2021): 5571-5580.
+36. Estes, Samuel, and Clint Dawson. "Uncertainty quantification in reservoirs with faults using a sequential approach." Computational Geosciences 25 (2021): 851-869.
+37. Wang, Ke, Jingyi Chen, Amin Kiaghadi, and Clint Dawson. "A new algorithm for land-cover classification using PolSAR and InSAR data and its application to surface roughness mapping along the Gulf coast." IEEE Transactions on Geoscience and Remote Sensing 60 (2021): 1-15.
+38. Thomas, Ajimon, J. C. Dietrich, M. Loveland, A. Samii, and C. N. Dawson. "Improving coastal flooding predictions by switching meshes during a simulation." Ocean Modelling 164 (2021): 101820.
+39. Valseth, Eirik, Mark D. Loveland, Clint Dawson, and Edward J. Buskey. "A study of the potential impact of dredging the corpus christi ship channel on passive particle transport." Journal of Marine Science and Engineering 9, no. 9 (2021): 935.
+40. Valseth, Eirik, Albert Romkes, Austin R. Kaul, and Clint Dawson. "A stable mixed finite element method for nearly incompressible linear elastostatics." International Journal for Numerical Methods in Engineering 122, no. 17 (2021): 4709-4729.
+41. Hoteit, Ibrahim, Yasser Abualnaja, Shehzad Afzal, Boujemaa Ait-El-Fquih, Triantaphyllos Akylas, Charls Antony, Clint Dawson et al. "Modeling and Monitoring Weather and Climate Characteristics of the Red Sea Region." Bulletin of the American Meteorological Society 102, no. 10 (2021): 989-996.
+42. Gupta, Soumyajit, Gurpreet Singh, and Clint N. Dawson. "Range-Net: A High Precision Neural SVD." (2021).
+43. Mattis, S. A., Kyle Robert Steffen, Troy Butler, Clint N. Dawson, and Donald Estep. "Learning Quantities of Interest from dynamical systems for observation-consistent inversion." Computer Methods in Applied Mechanics and Engineering 388 (2022): 114230.
+44. Thomas, Ajimon, J. C. Dietrich, C. N. Dawson, and R. A. Luettich. "Effects of model resolution and coverage on storm-driven coastal flooding predictions." Journal of Waterway, Port, Coastal, and Ocean Engineering 148, no. 1 (2022): 04021046.
+45. Valseth, Eirik, and Clint Dawson. "Potential Effects of Deepening of the Corpus Christi Ship Channel on Hurricane Storm Surge: A Case Study." (2022).
+46. Valseth, Eirik, Maria Teresa Contreras Vargas, Chayanon Wichitrnithed, Joannes Westerink, and Clint Dawson. "DEVELOPMENT OF MESHES FOR COMPOUND FLOOD SIMULATION FOR THE TEXAS COAST." Coastal Engineering Proceedings 37 (2022): 4-4.
+47. Prigiobbe, Valentina, Clint Dawson, Yao Hu, Hatim O. Sharif, and Navid Tahvildari. "Coastal Flooding: Modeling, Monitoring, and Protection Systems." Frontiers in Climate 3 (2022): 830946.
+48. Contreras, Maria Teresa, Zach Cobell, William James Pringle, Damrongsak Wirasaet, Coleman Blakely, Saeed Moghimi, Edward Myers, Eirik Valseth, Clint Dawson, and Joannes Westerink. "New High-Resolution Models for the US East and Gulf of Mexico Coasts: Basic Principles to Develop a Channel-to-Ocean Basin-Scale Hydrodynamic Model." In 102nd American Meteorological Society Annual Meeting. AMS, 2022.
+49. Valseth, Eirik, and Clint Dawson. "A stable space-time FE method for the shallow water equations." Computational Geosciences (2022): 1-18.
+50. Kazhyken, Kazbek, Juha Videman, and Clint Dawson. "Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon." arXiv preprint arXiv:2204.03486 (2022).
+51. Pachev, Benjamin, Eirik Valseth, and Clint Dawson. "Learning Storm Surge with Gradient Boosting." arXiv preprint arXiv:2204.13168 (2022).
+52. Valseth, Eirik, María Teresa Contreras Vargas, Chayanon Wichitrnithed, Joannes J. Westerink, and Clint Dawson. "Development of Compound and Storm Surge Meshes for the Texas Coast." Frontiers in Hydrology 2022 (2022): 200-02.
+53. Pachev, Benjamin, Georgia Stuart, and Clint Dawson. "Continuous Integration for HPC with Github Actions and Tapis." In Practice and Experience in Advanced Research Computing, pp. 1-4. 2022.
+54. Bremer, Maximilian, John Bachan, Cy Chan, and Clint Dawson. "Adaptive total variation stable local timestepping for conservation laws." Journal of Computational Physics 463 (2022): 111176.
+55. del-Castillo-Negrete, Carlos, Benjamin Pachev, and Clint Dawson. "TACC Job Manager-A Lightweight HPC Application and Job Management Library for TACC Systems." TACCSTER 2022 Proceedings (2022).
+56. Loveland, Mark, Eirik Valseth, Matt Lukac, and Clint Dawson. "Extending FEniCS to work in higher dimensions using tensor product finite elements." Journal of Computational Science 64 (2022): 101831.
+57. Shukla, Ashutosh, Sabiha Tabassum, Wen-Ying Wu, Brent Austgen, Clint Dawson, Zong-Liang Yang, Erhan Kutanoglu, and John Hasenbein. "Integrated Intelligence for Electric Grid Resilience using Storm Surge and Inland Flooding Models." Authorea Preprints (2022).
+58. Valseth, Eirik, Mark Loveland, Clint Dawson, and Edward Buskey. "Modeling the Potential Impact of Dredging the Corpus Christi Ship Channel On Passive Particle Transport." Authorea Preprints (2022).
+59. Dawson, Clint, and Ali Samii. "A Review of Nonlinear Boussinesq-Type Models for Coastal Ocean Modeling." The Mathematics of Marine Modelling: Water, Solute and Particle Dynamics in Estuaries and Shallow Seas (2022): 45-71.
+60. Lee, Wonhyun, Alexander Y. Sun, Bridget R. Scanlon, and Clint Dawson. "Modeling of Storm-induced Surge and Flooding from Hurricane Harvey in 2017." In AGU Fall Meeting Abstracts, vol. 2022, pp. NH12B-02. 2022.
+61. Valseth, Eirik, Clint Dawson, and Edward J. Buskey. "A Study of the Potential Impact of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge." In AGU Fall Meeting Abstracts, vol. 2022, pp. NH32C-0472. 2022.
+62. Wang, Mark, Paola Passalacqua, Shukai Cai, and Clint Dawson. "c-HAND: Near Real-Time Coastal Flood Mapping." In AGU Fall Meeting Abstracts, vol. 2022, pp. H42C-1262. 2022.
+63. Cerrone, Albert, Benjamin Pachev, Guoming Ling, Clint Dawson, and Joannes J. Westerink. "Propagating Uncertainty through GEFS-Enabled Global ESTOFS: Assessing Machine-Learning and Finite-Element-based Frameworks." In AGU Fall Meeting Abstracts, vol. 2022, pp. NH12B-06. 2022.
+64. Khani, Sina, and Clint Dawson. "Subgrid-scale parameterizations of eddy and momentum fluxes based on the gradient model for ocean mesoscale eddies." In AGU Fall Meeting Abstracts, vol. 2022, pp. OS45E-1239. 2022.
+65. Wang, Ke, Jingyi Chen, Eirik Valseth, Clint Dawson, and Gordon L. Wells. "Mapping Surface Deformation Along the Gulf Coast Using a Novel Spatiotemporal Interferogram Filtering Algorithm." In AGU Fall Meeting Abstracts, vol. 2022, pp. GC25F-0745. 2022.
+66. Li, Dongfeng, Han Jiang, Nick Z. Fang, Eirik Valseth, and Clint Dawson. "Development and Evaluation of Feasible Hydraulic Models to Understand Hydrodynamics of Lake Livingston in Texas." In AGU Fall Meeting Abstracts, vol. 2022, pp. H32P-1130. 2022.
+67. Contreras Vargas, María Teresa, Damrongsak Wirasaet, Guoming Ling, Coleman Blakely, Joannes J. Westerink, Kendra M. Dresback, Christine Szpilka et al. "Understanding the Coupled Effect of Upland Hydrology and Ocean Hydrodynamics During Extreme Events Along the East and Gulf of Mexico Coasts of the US." In AGU Fall Meeting Abstracts, vol. 2022, pp. NH32C-0486. 2022.
+68. Khani, Sina, and Clint Dawson. "High-resolution simulations of Hurricane Ida using the Weather Research and Forecasting model." In AGU Fall Meeting Abstracts, vol. 2022, pp. A55P-1338. 2022.
+69. Valseth, Eirik, Clint Dawson, Ethan Kubatko, and Joannes J. Westerink. "Recent Advances in Flood and Shallow-Water Modeling II Poster." In Fall Meeting 2022. AGU, 2022.
+70. Contreras, Maria Teresa, Brendan Woods, Coleman Blakely, Damrongsak Wirasaet, Joannes Westerink, Zach Cobell, William Pringle et al. "A Channel-to-Basin Scale ADCIRC Based Hydrodynamic Unstructured Mesh Model for the US East and Gulf of Mexico Coasts." (2023).
+71. Sun, Alexander Y., Zhi Li, Wonhyun Lee, Qixing Huang, Bridget R. Scanlon, and Clint Dawson. "Rapid flood inundation forecast using Fourier neural operator." In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 3733-3739. 2023.
+72. Khani, Sina, and Clinton N. Dawson. "A Gradient Based Subgrid‐Scale Parameterization for Ocean Mesoscale Eddies." Journal of Advances in Modeling Earth Systems 15, no. 2 (2023): e2022MS003356.
+73. Chen, Chen, Clint Dawson, and Eirik Valseth. "Cross-mode stabilized stochastic shallow water systems using stochastic finite element methods." Computer Methods in Applied Mechanics and Engineering 405 (2023): 115873.
+74. Khani, Sina, and Clinton N. Dawson. Potential vorticity and surface layer stability in hurricane movement: case studies of Hurricanes Harvey and Ida. No. EGU23-11156. Copernicus Meetings, 2023.
+75. Pilosov, Michael, Carlos del-Castillo-Negrete, Tian Yu Yen, Troy Butler, and Clint Dawson. "Parameter estimation with maximal updated densities." Computer Methods in Applied Mechanics and Engineering 407 (2023): 115906.
+76. del-Castillo-Negrete, Carlos, Michael Pilosov, Troy Butler, Clint Dawson, and Tian Yu Yen. "Stochastic Inversion with Maximal Updated Densities for Storm Surge Wind Drag Parameter Estimation." Authorea Preprints (2023).
+77. Ling, Guoming, Damrongsak Wirasaet, Joannes Westerink, Maria Teresa Contreras Vargas, Mindo Choi, William James Pringle, Coleman Blakely et al. "Development and validation of an Alaskan coupled storm surge, tide, wind wave, and sea ice forecasting system." (2023).
+78. Loveland, Mark, Jessica Meixner, Eirik Valseth, and Clint Dawson. "Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico." arXiv preprint arXiv:2310.06199 (2023).
+79. Lee, Wonhyun, Alexander Y. Sun, Bridget R. Scanlon, and Clint Dawson. "Hindcasting compound pluvial, fluvial and coastal flooding during Hurricane Harvey (2017) using Delft3D-FM." Natural Hazards (2023): 1-30.
+80. Valseth, Eirik, Clint Dawson, and Edward Buskey. "A study of the potential effects of deepening the Corpus Christi Ship Channel on hurricane storm surge." Journal of Computational Science 73 (2023): 102138.
+81. Pachev, Benjamin, L. Ruby Leung, Tian Zhou, and Clint Dawson. "One-way coupling of E3SM with ADCIRC demonstrated on Hurricane Harvey." Natural Hazards 119, no. 3 (2023): 2063-2087.
+82. Pachev, Benjamin, Prateek Arora, Carlos del-Castillo-Negrete, Eirik Valseth, and Clint Dawson. "A framework for flexible peak storm surge prediction." Coastal Engineering 186 (2023): 104406.
+83. Cerrone, Albert R., Leendert G. Westerink, Guoming Ling, Coleman Peter Blakely, Damrongsak Wirasaet, Clint Dawson, and Joannes Westerink. "Correcting Physics-Based Global Tide and Storm Water Level Forecasts with the Temporal Fusion Transformer." Authorea Preprints (2023).
+84. Khani, Sina, and Clint Dawson. "On the rainfall patterns and precipitation magnitudes in high-resolution hurricane simulations." AGU23 (2023).
+85. Wang, Ke, Jingyi Chen, Eirik Valseth, Gordon L. Wells, Srinivas V. Bettadpur, Cathleen Jones, and Clint Dawson. "Subtle Land Subsidence Elevates Future Flood Risk Along the Upper Texas and Louisiana Coasts." AGU23 (2023).
+86. Casillas, Peter Rivera, Sourav Dutta, Mark Loveland, Jonghyun Harry Lee, Matthew Farthing, and Clint Dawson. "Latent Space Neural Operators for Hydrodynamic Modeling." AGU23 (2023).
+87. Sun, Alexander Y., Zhi Li, Wonhyun Lee, Sudershan Gangrade, Bridget R. Scanlon, and Clint Dawson. "Rapid Flood Extent Forecasting Using Hybrid Flood Inundation Modeling and Deep Learning." AGU23 (2023).
+88. Paudel, Asim, Dongfeng Li, Clint Dawson, and Nick Z. Fang. "An Investigation into Incorporating Spatial Variation in Lake Roughness Based on Terrain Undulations: A Hydraulic Simulation for Lake Livingston, Texas." AGU23 (2023).
+89. Loveland, Mark, Eirik Valseth, Jessica Meixner, and Clint Dawson. "WAVEx: Stabilized finite elements for spectral wind wave models using FEniCSx." Coastal Engineering 187 (2024): 104425.
+90. Fujisaki-Manome, Ayumi, Haoguo Hu, Jia Wang, Joannes Westerink, Damrongsak Wirasaet, Guoming Ling, Mindo Choi et al. "Advanced Sea Ice Modeling for Integration into a Storm-Surge, Wave, and Ice Forecasting System for Alaska’s Coast." In 104th AMS Annual Meeting. AMS, 2024.
+91. Wichitrnithed, Chayanon, Eirik Valseth, Ethan J. Kubatko, Younghun Kang, Mackenzie Hudson, and Clint Dawson. "A discontinuous Galerkin finite element model for compound flood simulations." Computer Methods in Applied Mechanics and Engineering 420 (2024): 116707.
+92. Valseth, Eirik, Pouria Behnoudfar, Clint Dawson, and Albert Romkes. "Automatic variationally stable analysis for finite element computations: Transient convection-diffusion problems." Computers & Mathematics with Applications 157 (2024): 15-26.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </details>
