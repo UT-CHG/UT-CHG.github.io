@@ -21,14 +21,6 @@ In addition to these models, the **CHG** uses and contributes to the development
 
 
 
-<!-- {% include button.html text="Meet Our Team" link="/groups/" %} -->
-
-<!-- ##### Research {% include display-research.html%} -->
-
-
-<br>
-
-
 #### Latest Post from NEWS & OUTREACH
 
 
