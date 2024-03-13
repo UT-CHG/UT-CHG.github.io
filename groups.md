@@ -59,22 +59,27 @@ Nearshore Waves.”
 * Pothina, Dharhas, 2002, “A coupled discontinuous/continuous finite element method for hydrodynamic simulations using the shallow water equations.”
 * Goya, Anshul, 2016, “Parallel computing for multiscale finite element methods for subsurface flows.”
 
-#### OTHER 
+#### Postdocs and Researchers 
 * Keenan, Phil, NSF Postdoctoral Fellow, (with M. F. Wheeler), Rice University, 1993 - 1996.
-* Minkoff, Sue, NSF Industrial Post-Doctoral Fellow, (with M. F. Wheeler), BP/Rice University, 1995-1997. Chippada, Srinivas, Research Scientist, (with M. F. Wheeler), 1995-98.
+* Minkoff, Sue, NSF Industrial Post-Doctoral Fellow, (with M. F. Wheeler), BP/Rice University, 1995-1997.
+* Chippada, Srinivas, Research Scientist, (with M. F. Wheeler), 1995-98.
 * Martinez, Monica, Research Scientist, (with M. F. Wheeler), 1997-98.
 * Aksoylu, Burak, ICES Postdoctoral Fellow, 2003-05
 * Kubatko, Ethan, ICES Postdoctoral Fellow, 2006-2008
 * Trahan, Corey, Postdoctoral Fellow, 2008-2011.
-* Rodriguez, Joaquin, REU, Spring 2009
-* Muhammad, Adnan, REU, Summer 2009
 * Zanello, Francesa, visiting Ph.D. student, 2009-2010.
-* Fitch, Ruben, REU and McNair Fellow, Spring and Summer, 2011.
 * Butler, Troy, ICES Postdoctoral Fellow and Research Assistant, August 2009—July 2012.
-* Proft, Jennifer, Research Associate, 2007-present
 * Michoski, Craig, Research Associate, 2009—2015.
 * Dietrich, Casey, ICES Postdoctoral Fellow and Research Assistant, November 2010—August 2013.
 * Mandli, Kyle, ICES Postdoctoral Fellow, 2011—2014.
 * Mattis, Steve, Postdoctoral Fellow, 2013—2016.
 * Terrel, Andy, Research Scientist, 2013.
 * Presho, Michael, Postdoctoral Fellow, 2014—2016.
+* Steffen, Kyle, Postdoctoral Fellow, 2019—2022.
+* Choudhary, Gajanan,  Postdoctoral Fellow, 2019-2021
+* Estes, Samuel, Postdoctoral Fellow, 2020-2022
+* Valseth, Eirik Postdoctoral Fellow, 2020-2021, Research Associate, 2021-present
+* Khani, Sina, Research Associate, 2021-2024
+* Proft, Jennifer, Research Associate, 2007-2020, 2023 - present
+* Kang, Younghun,  Postdoctoral Fellow, 2023-present
+* Loveland, Mark, Postdoctoral Fellow, 2023-present
