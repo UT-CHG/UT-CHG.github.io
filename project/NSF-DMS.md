@@ -17,7 +17,7 @@ Broader impacts. The proposed research will potentially advance the ability to m
 
 
 
-Troy Butler; University of Colorado Denver and Clint Dawson, UT Austin
+Troy Butler, University of Colorado Denver and Clint Dawson, UT Austin
 
 
 {% include button.html text="Back" link="/research_page/" %}
