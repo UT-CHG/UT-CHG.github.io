@@ -2,13 +2,13 @@
 title: Improving the Efficiency of Wave and Surge Models via Adaptive Mesh Resolution
 feature_text: Research
 
-<br />
-
-PIs:  Clint Dawson and Casey Dietrich, North Carolina State University
 
 
 ---
 <br />
+<br />
+
+PIs:  Clint Dawson and Casey Dietrich, North Carolina State University
 
 Sponsor:  Department of Homeland Security Coastal Resilience Center of Excellence 
 <br /> 
