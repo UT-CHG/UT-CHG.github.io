@@ -1,1 +1,23 @@
+---
+title:  Advancing the Data-to-Distribution Pipeline
+for Scalable Data-Consistent Inversion to Quantify Uncertainties in
+Coastal Hazards
 
+
+---
+<br />
+
+National Science Foundation
+
+This project is based upon a novel data-consistent inversion (DCI) approach to identify, quantify, and reduce sources of uncertainty for inputs (parameters) of complex physics-based models of physical/engineered systems using model outputs associated with observational data. This approach is original, data-oriented, rooted in measure theory, and applicable to a wide range of modeling questions of interest to the broader scientific community. Due to their societal importance, the project focuses on three inter-related applications for coastal hazards for which we will apply the proposed mathematical research that advances DCI to improve the inference and prediction of: (i) storm surge and flooding due to hurricanes in coastal communities stretching from the Gulf of Mexico to the western North Atlantic; (ii) arctic storms and evolving sea ice coverage impacting North American coastal communities; (iii) oil spill spread from various sources such as offshore and deepwater drilling rigs.
+
+The proposed research builds upon a rigorous measure-theoretic foundation to tackle significant mathematical, statistical, and computational challenges hindering the application of DCI to a wide range of complex physical systems. We propose: (i) a deep learning based data-to-distribution pipeline to transform spatial-temporal data clouds into non-parametric distributions for DCI; (ii) scalable approaches to DCI that simultaneously address computational issues arising from high-dimensional feature spaces as well as limited simulated data availability due to computationally expensive models; (iii) iterative approaches to DCI to identify high-probability feasibility regions for critical model parameters; (iv) continued development and implementation of algorithmic developments in public domain codes for DCI and the data-to-distribution pipeline.
+Intellectual Merit. This project tackles several significant mathematical, statistical, and computational challenges hindering the application of data-consistent inversion (DCI) to a wide range of complex physical systems and computational models. The proposed research builds upon a rigorous measure-theoretic foundation to incorporate: (i) a deep learning based data-to-distribution pipeline to transform spatial-temporal data clouds into non-parametric observed distributions for DCI; (ii) scalable approaches to DCI that produce optimally weighted empirical distribution functions in an L^2 sense with computational costs that scale linearly with feature space dimension; (iii) iterative approaches to DCI based on data-derived quantities of interest and identifying high-probability feasibility regions for critical model parameters based on maximizing DCI solutions; (iv) continued development and implementation of algorithmic advances in public domain codes for DCI and the data-to-distribution pipeline. The computational and theoretical research is applied in the context of three coastal hazard applications that will improve the inference and prediction of storm surge, evolving sea ice coverage, and oil spill spread.  
+Broader impacts. The proposed research will potentially advance the ability to make data-informed decisions and inferences in science and engineering. Major broader impacts of the project include: (i) Training of students directly involved in the research; (ii) Release of fully documented code, examples, and tutorials to conduct scientific inference and prediction; (iii) A workshop organized by the Pis on the formulation and solution of stochastic inverse problems; (iv) Dissemination of research results through the usual publication of manuscripts and seminars/minisympoia; (v) Direct technology transfer and dissemination of results to government agencies such as the Department of Homeland Security, the U.S. Army Corps of Engineers, and NOAA. Both institutions are Hispanic Serving Institutions (HSIs), and the Pis will recruit from within university ranks to create a diverse research team. The workshop will set aside 25% of seats for BIPOC students from our HSIs and 50% of seats overall for students/early career researchers from historically underrepresented groups in STEM. A math clinic and UQ class will also be taught at CU Denver that integrates material from this project as part of the training of students. 
+
+
+
+Troy Butler; University of Colorado Denver and Clint Dawson, UT Austin
+
+
+{% include button.html text="Back" link="/research_page/" %}
