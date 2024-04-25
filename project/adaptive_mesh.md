@@ -39,7 +39,6 @@ In our ongoing CRC project, we speeded up the surge and wave models used for pre
 
 3.	Improve mass-conservation in ADCIRC with DG/CG formulation.    <br />
 4.	Improve efficiency of DG/CG formulation.  
-![image](https://github.com/UT-CHG/UT-CHG.github.io/assets/2117964/d7aeef40-d646-441a-ab4f-83bd0889c762)
 
 
 
