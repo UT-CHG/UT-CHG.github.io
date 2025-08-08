@@ -52,6 +52,8 @@ Nearshore Waves.”
 * Li, Wei, 2021, "Data-driven modeling for compound flooding simulation"
 * Mark Loveland, 2023, "WAVEx : a new spectral wind wave model using stabilized finite elements"
 * Carlos Del-Castilo Negrete, 2023, "Sequential data consistent inversion algorithms for parameter estimation in coastal storm surge models using high performance computing applications"
+* Benjamin Pachev, 2024, "Automated GPU Acceleration of Stabilized Shallow Water Solvers with FEniCSx"
+* Chayanon (Namo) Wichitrnithed, 2025, Coupled Continuous-Discontinuous Galerkin solver for hurricane storm surges
 
 #### Former M. S. Students
 
@@ -78,8 +80,9 @@ Nearshore Waves.”
 * Steffen, Kyle, Postdoctoral Fellow, 2019—2022.
 * Choudhary, Gajanan,  Postdoctoral Fellow, 2019-2021
 * Estes, Samuel, Postdoctoral Fellow, 2020-2022
-* Valseth, Eirik Postdoctoral Fellow, 2020-2021, Research Associate, 2021-present
+* Valseth, Eirik Postdoctoral Fellow, 2020-2021, Research Associate, 2021-2025, Research Affiliate 2025-
 * Khani, Sina, Research Associate, 2021-2024
 * Proft, Jennifer, Research Associate, 2007-2020, 2023 - present
 * Kang, Younghun,  Postdoctoral Fellow, 2023-present
 * Loveland, Mark, Postdoctoral Fellow, 2023-present
+* Chayanon (Namo) Wichitrnithed, Postdoctoral Fellow, 2025-present
